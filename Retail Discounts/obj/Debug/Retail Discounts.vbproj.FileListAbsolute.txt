@@ -1,0 +1,32 @@
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\bin\Debug\Midterm Project.exe.config
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\bin\Debug\Midterm Project.exe
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\bin\Debug\Midterm Project.pdb
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\bin\Debug\Midterm Project.xml
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\Midterm Project.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\WindowsApp1.Form1.resources
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\Midterm Project.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\Midterm Project.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\Midterm Project.exe
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\Midterm Project.xml
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project\Midterm Project\obj\Debug\Midterm Project.pdb
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\Midterm Project.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\WindowsApp1.Form1.resources
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\Midterm Project.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\Midterm Project.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\Midterm Project.exe
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\Midterm Project.xml
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review\Midterm Project\obj\Debug\Midterm Project.pdb
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\bin\Debug\Midterm Project.exe.config
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\bin\Debug\Midterm Project.exe
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\bin\Debug\Midterm Project.pdb
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\bin\Debug\Midterm Project.xml
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\Midterm Project.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\WindowsApp1.Form1.resources
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\Midterm Project.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\Midterm Project.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\Midterm Project.exe
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\Midterm Project.xml
+A:\Cincinnati State\.NET programming\Week Eight\Midterm Project - Tuesday October 17th Review - Copy\Midterm Project\obj\Debug\Midterm Project.pdb
